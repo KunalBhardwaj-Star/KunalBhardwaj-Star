@@ -1,48 +1,246 @@
-<h1 align="center">Kunal Bhardwaj</h1>
+<!-- ========================================= -->
+<!--              HEADER SECTION              -->
+<!-- ========================================= -->
+
+<h1 align="center">Hi 👋, I'm Kunal Bhardwaj</h1>
+
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;AI+Engineer+%7C+RAG+%26+Agentic+AI;B.Tech+CSE+(AI);450%2B+LeetCode+Problems" />
+Building scalable software, intelligent systems, and real-world products.
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/KunalBhardwaj-Star"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-3FB950?style=for-the-badge" />
+
+<a href="https://your-portfolio-link.com">
+🌐 Portfolio
+</a>
+•
+<a href="https://www.linkedin.com/in/kunal-bhardwaj-6790b232a/">
+💼 LinkedIn
+</a>
+•
+<a href="https://leetcode.com/u/starbuggs/">
+🧠 LeetCode
+</a>
+•
+<a href="mailto:bhardwajkunal399@gmail.com">
+📧 Email
+</a>
+
 </p>
 
-<br/>
+---
 
-```ts
-const kunal = {
-  education: "B.Tech CSE (AI), 3rd Year",
-  building:  ["SportsSync", "DevMemory", "DSA Learning Agent"],
-  learning:  ["Advanced RAG", "Agentic AI", "Distributed Systems"],
-  stack:     "React · Flask · MongoDB · Python",
-  lookingFor: "SWE / Full Stack / AI internships",
-};
+## About Me
+
+🎓 3rd Year B.Tech Computer Science & Artificial Intelligence
+
+💻 Full Stack Developer passionate about building real-world products
+
+🤖 Exploring AI Engineering, Agentic AI, RAG Systems, and Recommendation Systems
+
+🧠 Solved 500+ LeetCode Problems
+
+🚀 Currently building scalable applications and AI-powered developer tools
+
+🎯 Seeking Software Engineering, Full Stack, and AI Internship Opportunities
+
+---
+
+## Current Focus
+
+```text
+📌 SportsSync
+    Building a sports tournament ecosystem
+
+📌 DevMemory
+    AI-powered project memory layer
+
+📌 DSA Learning Agent
+    Personalized coding recommendation system
+
+📌 Advanced RAG
+    Retrieval-Augmented Generation Systems
+
+📌 Agentic AI
+    Multi-step AI workflows and reasoning
 ```
 
-<p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL">
-    <img src="https://img.shields.io/badge/View%20my%20projects%20→-58A6FF?style=for-the-badge" />
-  </a>
-</p>
+---
 
-<br/>
+## Tech Stack
+
+### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,react,tailwind,flask,fastapi,nodejs,mongodb,postgres,docker,git,linux&theme=dark&perline=15" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp" />
 </p>
 
-<br/>
+### Frontend
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalBhardwaj-Star&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBhardwaj-Star&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
 </p>
+
+### Backend
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KunalBhardwaj-Star/KunalBhardwaj-Star/output/github-snake-dark.svg" alt="Contribution snake" />
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs" />
 </p>
 
-<p align="center"><sub>First make it work. Then make it better. Then make it scale.</sub></p>
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
+</p>
+
+### AI / ML
+
+```text
+NumPy
+Pandas
+Matplotlib
+Scikit-Learn
+Machine Learning
+Generative AI
+RAG
+Embeddings
+Vector Databases
+Agentic AI
+Recommendation Systems
+```
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|----------|-------------|
+| 🏆 SportsSync | Tournament Management & Player Analytics Platform |
+| 🧠 DevMemory | AI Memory Layer for Software Projects |
+| 🎯 DSA Learning Agent | Personalized Coding Recommendation System |
+| 🤖 AI Projects | RAG, ML, and LLM Experiments |
+
+</div>
+
+> More details available on my upcoming portfolio website.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=KunalBhardwaj-Star&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalBhardwaj-Star&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=KunalBhardwaj-Star&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## Coding Profile
+
+```text
+LeetCode Solved      : 450+
+
+Primary Language     : Python
+
+Backend Stack        : Flask + FastAPI
+
+Frontend Stack       : React + TypeScript
+
+Database Stack       : MongoDB + PostgreSQL
+
+Current Interests    :
+- GenAI
+- Agentic AI
+- RAG Systems
+- Recommendation Systems
+- Full Stack Development
+```
+
+---
+
+## 2026 Goals
+
+- [ ] Secure a Software Engineering Internship
+- [ ] Launch DevMemory MVP
+- [ ] Complete SportsSync Production Version
+- [ ] Reach 600+ LeetCode Problems
+- [ ] Master Advanced RAG Systems
+- [ ] Build a Personal Portfolio Website
+- [ ] Publish Technical Blogs
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/your-linkedin">
+LinkedIn
+</a>
+•
+<a href="https://github.com/KunalBhardwaj-Star">
+GitHub
+</a>
+•
+<a href="https://your-portfolio-link.com">
+Portfolio
+</a>
+
+</p>
+
+---
+
+## Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KunalBhardwaj-Star&label=Profile%20Views&color=7aa2f7&style=flat" />
+
+</p>
+
+---
+
+## Quote
+
+<p align="center">
+
+<i>
+"Build things that solve real problems, then scale them."
+</i>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile.
+
+</p>
